@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\misc.c
+	"misc.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\misc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1464025702 c:\users\anton\documents\stm32\nrf\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1464025702 c:\users\anton\documents\stm32\nrf\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1464025702 c:\users\anton\documents\stm32\nrf\inc\system_stm32f10x.h
+
+1464025702 c:\users\anton\documents\stm32\nrf\inc\stm32f10x_conf.h
+	"stm32f10x_adc.h"
+	"stm32f10x_bkp.h"
+	"stm32f10x_can.h"
+	"stm32f10x_cec.h"
+	"stm32f10x_crc.h"
+	"stm32f10x_dac.h"
+	"stm32f10x_dbgmcu.h"
+	"stm32f10x_dma.h"
+	"stm32f10x_exti.h"
+	"stm32f10x_flash.h"
+	"stm32f10x_fsmc.h"
+	"stm32f10x_gpio.h"
+	"stm32f10x_i2c.h"
+	"stm32f10x_iwdg.h"
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+	"stm32f10x_rtc.h"
+	"stm32f10x_sdio.h"
+	"stm32f10x_spi.h"
+	"stm32f10x_tim.h"
+	"stm32f10x_usart.h"
+	"stm32f10x_wwdg.h"
+	"misc.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_adc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_bkp.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_can.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_cec.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_crc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_dac.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_dbgmcu.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_dma.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_exti.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_flash.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_fsmc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_gpio.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_i2c.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_iwdg.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_pwr.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_rcc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_rtc.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_sdio.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_spi.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_tim.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_usart.h
+	"stm32f10x.h"
+
+1464025702 c:\users\anton\documents\stm32\nrf\spl\inc\stm32f10x_wwdg.h
+	"stm32f10x.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_adc.c
+	"stm32f10x_adc.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_bkp.c
+	"stm32f10x_bkp.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_can.c
+	"stm32f10x_can.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_cec.c
+	"stm32f10x_cec.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_crc.c
+	"stm32f10x_crc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_dac.c
+	"stm32f10x_dac.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_dbgmcu.c
+	"stm32f10x_dbgmcu.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_dma.c
+	"stm32f10x_dma.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_exti.c
+	"stm32f10x_exti.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_flash.c
+	"stm32f10x_flash.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_fsmc.c
+	"stm32f10x_fsmc.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_gpio.c
+	"stm32f10x_gpio.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_i2c.c
+	"stm32f10x_i2c.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_iwdg.c
+	"stm32f10x_iwdg.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_pwr.c
+	"stm32f10x_pwr.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_rcc.c
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_rtc.c
+	"stm32f10x_rtc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_sdio.c
+	"stm32f10x_sdio.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_spi.c
+	"stm32f10x_spi.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_tim.c
+	"stm32f10x_tim.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_usart.c
+	"stm32f10x_usart.h"
+	"stm32f10x_rcc.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\spl\src\stm32f10x_wwdg.c
+	"stm32f10x_wwdg.h"
+	"stm32f10x_rcc.h"
+
+1465253864 source:c:\users\anton\documents\stm32\nrf\src\led.c
+	<stdbool.h>
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stm32f10x_gpio.h>
+	"led.h"
+
+1466030890 c:\users\anton\documents\stm32\nrf\inc\led.h
+
+1466104564 source:c:\users\anton\documents\stm32\nrf\src\main.c
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stm32f10x_gpio.h>
+	<stm32f10x_spi.h>
+	<stdbool.h>
+	<stdio.h>
+	"led.h"
+	"SPI.h"
+	"tm_stm32_nrf24l01.h"
+
+1466012178 c:\users\anton\documents\stm32\nrf\inc\spi.h
+	<stm32f10x.h>
+
+1466012188 c:\users\anton\documents\stm32\nrf\inc\tm_stm32_nrf24l01.h
+	<stm32f10x.h>
+	<stm32f10x_gpio.h>
+	"SPI.h"
+
+1466103632 source:c:\users\anton\documents\stm32\nrf\src\spi.c
+	<stm32f10x.h>
+	<stm32f10x_conf.h>
+	<stm32f10x_rcc.h>
+	<stm32f10x_gpio.h>
+	<stm32f10x_spi.h>
+	<stdbool.h>
+	"SPI.h"
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\src\startup_stm32f10x_md.s
+
+1464025702 source:c:\users\anton\documents\stm32\nrf\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1466012207 source:c:\users\anton\documents\stm32\nrf\src\tm_stm32_nrf24l01.c
+	<stm32f10x.h>
+	"tm_stm32_nrf24l01.h"
+
